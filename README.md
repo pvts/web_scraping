@@ -1,2 +1,2 @@
 # web_scraping
-Web Scraping example using Python
+An easy step by step web Scraping example using Python.
